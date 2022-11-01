@@ -26,6 +26,12 @@ header {
         font-family: 'Montserrat', sans-serif;
         font-size: 1em;
     }
+    h5 {
+        
+        font-family: 'Montserrat', sans-serif;
+        font-size: medium;
+        
+    }
     section{
         width: 70%;
         margin: 0 auto;
@@ -91,6 +97,7 @@ header {
     }
     #fondo {
         background-color: rgb(71, 161, 229); background-size: auto;
+        color: white
     }
         #fondo {
         border-style: solid;
